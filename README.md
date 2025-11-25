@@ -38,11 +38,6 @@ This project demonstrates:
 
 Source: https://aact.ctti-clinicaltrials.org
 
-Downloaded file:
-
-20251118_export_ctgov.zip
-
-
 This dataset contains >500,000 clinical studies across multiple files. The project uses the following core tables:
 
 AACT Table	Description
